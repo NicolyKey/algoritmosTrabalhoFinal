@@ -1,2 +1,2 @@
 # algoritmosTrabalhoFinal
-trabalho final de algoritmos e etsrutura de dados
+trabalho final de algoritmos e estrutura de dados
